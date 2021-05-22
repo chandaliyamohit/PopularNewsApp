@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687573293994",
+    "project_id": "popularnews-88391",
+    "storage_bucket": "popularnews-88391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687573293994:android:1cd6805f8fb2014ab369d3",
+        "android_client_info": {
+          "package_name": "com.haerul.popularnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687573293994-1av3fpptqsf4j8e6slana79riimp1umn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haerul.popularnews",
+            "certificate_hash": "38e8f9d70de4641e46892c2d8d0bee4746797ccb"
+          }
+        },
+        {
+          "client_id": "687573293994-ko35trusqljr1v8jl2cc0scaclb93ih6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FuKAZf9mDqk2OivZk4dPzU9tzWpZXmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687573293994-ko35trusqljr1v8jl2cc0scaclb93ih6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
